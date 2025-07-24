@@ -31,4 +31,4 @@ This repository contains a Jupyter Notebook for analyzing the UK Referendum data
 
 ## License
 
-This project is for educational purposes only. Data sources are publicly available.
+This project is licensed under the MIT License. See the LICENSE file for details.
